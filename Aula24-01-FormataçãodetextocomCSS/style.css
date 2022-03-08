@@ -1,0 +1,48 @@
+body{
+    margin: 30px;
+    font-size: 20px;
+}
+p{
+    color: #a002fc;
+    font-size: 20px;
+    font-weight: normal;
+    /* font-family: Arial, Helvetica, sans-serif, 'Times New Roman', Times, serif; */
+    font-family: 'Patrick Hand', cursive;
+
+    /* text-align: left; */
+    /* text-align: right; */
+    /* text-align: center; */
+    text-align: justify;
+
+    /* text-transform: lowercase; */
+    /* text-transform: uppercase; */
+
+    /* word-spacing: 10px; de uma palavra para outra */ 
+    /* letter-spacing: 10px; de uma letra para outra */
+
+    /* text-shadow: 1px 1px 1px #FF0000; sombreamento  */
+
+}
+
+a{
+    /* text-decoration: none; tira todas as decorações */
+    /* text-decoration: line-through; risca no meio */
+    /* text-decoration: underline; sublinha */
+    /* text-decoration: overline; linha em cima */
+    color: #FF0000;
+    font-weight: bold;
+
+}
+a:hover{
+
+    text-decoration: underline; /*sublinha*/
+    color: #a50202;
+    font-weight: bold;
+
+}
+
+li{
+    color: #00ff00;
+    font-weight: bold;
+    font-size: 35px;
+}

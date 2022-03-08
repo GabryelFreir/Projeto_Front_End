@@ -1,0 +1,17 @@
+.A{
+    color: #ffffff;
+    background-color: #000000;
+}
+p {
+    color: #0f0;
+    background-color: #ff0;
+    border: 5px solid #000000;
+    /* border: 5px solid #000000; -- Solid = Solido
+    border-bottom: 5px solid #000000; -- Solid = Solido
+    border-top: 5px solid #000000; -- Solid = Solido
+    border-left: 5px solid #000000; -- Solid = Solido
+    border-right: 5px solid #000000; -- Solid = Solido
+    border-radius: 5px solid #000000; -- Solid = Solido
+    border: 5px dotted #000000; -- Solid = Pontilhados
+    border: 5px dashed #000000; -- Solid = Traços */
+}

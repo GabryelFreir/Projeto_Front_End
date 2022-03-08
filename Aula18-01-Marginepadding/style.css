@@ -1,0 +1,33 @@
+*{
+    /* box-sizing: content-box; */
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0px;
+}
+
+#divisoria{
+    border: 3px solid #FF0000;
+    padding: 10px 15px 50px 100px; /*segue sentido horario do relogio sendo o primeiro as 12h */
+    /*padding: 20px 50px; quando colocado somente dois o primeiro px corresponde a margem de cima e de baixo e o terceiro a direita e a esquerda */
+   /* padding-left: 30px; */
+   /* padding-top: 5px; */
+    /*padding-bottom: 5px; */
+
+}
+.principal{
+    background-color: #FFFF00;
+    border: 3px solid #FF0000;
+    padding: 10px;
+    margin: 10px; /*se colocado somente 1 elemento ela vai abrir nos 4 cantos */
+
+}
+.imagem img{
+    border: 3px solid #FFFF00;
+    padding: 25px;
+    margin: 10px;
+    width: 100px;
+   /* max-width: 50px; o que está aqui vira lei  
+    min-width: 50px; */
+}
